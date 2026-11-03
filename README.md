@@ -1,4 +1,3 @@
-# JoaquinCastillo1610
 # 👋 Hi, I'm Joaquin Castillo
 
 ### 💻 Systems Engineering Student | Python Developer
@@ -29,4 +28,25 @@ I'm a Systems Engineering student passionate about programming, software develop
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoaquinCastillo1610&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinCastillo1610&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JoaquinCastillo1610&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- GitHub: [@JoaquinCastillo1610](https://github.com/JoaquinCastillo1610)
+
+---
+
+<p align="center">
+  <i>"Always learning, always building."</i>
+</p>
